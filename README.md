@@ -1,4 +1,5 @@
 # The Ultimate Go Study Guide
+# go 语言学习指导
 
 [This material has been acquired and actively maintained by Ardan Labs →](https://github.com/ardanlabs/gotraining-studyguide)
 
